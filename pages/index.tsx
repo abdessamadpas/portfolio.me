@@ -129,7 +129,7 @@ export default function Home() {
         className="text-xs px-4 py-2 md:text-sm 2xl:text-base border rounded-md border-slate-900 bg-slate-900 text-slate-100 
           dark:bg-slate-100 dark:text-slate-900 dark:shadow-slate-100/5 shadow-slate-900/50 shadow-lg"
       >
-        <Link href="/CV-AALOUWAN.pdf" target="_blank">
+        <Link href="/Abdessamad_Aalouwan.pdf" target="_blank">
           Check out my resume
         </Link>
       </motion.button>
